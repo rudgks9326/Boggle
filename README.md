@@ -11,7 +11,7 @@ The number one problem that newly graduated college students face is finding a j
 
 Linkedin is the world's largest professional network on the internet. You can use LinkedIn to find the right job or internship, connect and strengthen professional relationships, and learn the skills you need to succeed in your career. However it can be difficult to connect with people with 500+ connections making it hard to get noticed. Constantly displays incomplete profile challenges making it more time consuming for one to complete. The thought of getting your identity stolen. The premium package is severely costly and companies aren’t willing to post job listings on linkedin thinking it will ruin their reputation.
 
-With all these limitations in mind and while being a college student about to graduate I am restricted on time. We are also keen to connect with some of the more influential individuals running bigger companies however linkedin hinders to let me connect with them and rather lets me follow their page and see their postings.
+With all these limitations in mind and while being a college student about to graduate we are restricted on time. We are also keen to connect with some of the more influential individuals running bigger companies however linkedin hinders to let me connect with them and rather lets me follow their page and see their postings.
 
 Other social networking sites such as Monster, Indeed, Craigslist, Coffee Chat, and Lets Lunch are also great website but are the byproduct of linkedin. These other social networking sites are not aesthetically pleasing, are difficult to navigate through, prone to scams, offer little to no additional resources, not reaching a large audience, and provide no definite incentive for the individuals.
 
