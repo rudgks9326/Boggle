@@ -1,10 +1,10 @@
 Project name: BOGGLE
 
 Project Members:
-Jack Tobin (back-end)
-Jorge Otero-Beltran(back-end)
-Mahamil Gadit (front-end)
-Kyeonghan Lee (front-end)
+Jack Tobin (back-end),
+Jorge Otero-Beltran(back-end),
+Mahamil Gadit (front-end),
+Kyeonghan Lee (front-end),
 
 Project Description:
 The number one problem that newly graduated college students face is finding a job. I know this because graduation is coming up and I am currently having a difficult time finding one. With not knowing where to start and with the help of others I came across a platform that everyone loves and uses by the name of linkedin.
